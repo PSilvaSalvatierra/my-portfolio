@@ -89,12 +89,18 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/main.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/main.js"
+            ]
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "e000f1a3-f950-4060-bbd0-71de42878125"
   }
 }
